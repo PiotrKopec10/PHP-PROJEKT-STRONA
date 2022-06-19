@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway&family=Roboto:wght@300&family=Rubik&display=swap");
+/* Sass Template */
+/* global classes */
+button, button:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+/*typography class*/
+.font-roboto {
+  font-family: "Roboto", cursive;
+}
+
+.font-rale {
+  font-family: "Raleway", cursive;
+}
+
+.font-rubik {
+  font-family: "Rubik", cursive;
+}
+
+.font-size-12 {
+  font-size: 12px;
+}
+
+.font-size-14 {
+  font-size: 14px;
+}
+
+.font-size-16 {
+  font-size: 16px;
+}
+
+.font-size-20 {
+  font-size: 20px;
+}
+
+/*Color Template*/
+.color-primary {
+  color: red;
+}
+
+.color-primary-bg {
+  background: white;
+}
+
+.color-second {
+  color: #00FFFF;
+}
+
+.color-second-bg {
+  background: linear-gradient(to bottom, #cc3300 0%, #66ccff 100%);
+}
+
+.color-yellow {
+  color: #DEB887;
+}
+
+.color-yellow-bg {
+  background: #DEB887;
+}
+
+/*# sourceMappingURL=style.css.map */
